@@ -32,10 +32,7 @@ nav ul li a {
 main {
   padding: 20px;
 }
-.circular-frame img {
-  width: 30%;
-  height: 30;
-  border-radius: 51%;
+
 
   footer {
     background-color: hsl(0, 100%, 21%);
